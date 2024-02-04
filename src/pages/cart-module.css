@@ -1,0 +1,13 @@
+.cart-layout {
+  border: 1px solid black;
+  margin: 1rem;
+  display: flex;
+}
+
+.cart-layout img {
+  margin: 1rem;
+}
+
+.cart h1 {
+  text-align: center;
+}
